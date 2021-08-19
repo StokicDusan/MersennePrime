@@ -38,9 +38,7 @@ def mersenne_primes(n: int) -> None:
     value, m = 0, 1
     if n > 0:
         print(3, end=" ")
-    while(1):
-        if m >= n:
-            break
+    while(m<n):
         value += 1
         if is_prime(value):
             if is_Mersenne(value):
@@ -53,9 +51,7 @@ def mersenne_primes_format(n: int) -> None:
     if n > 0:
         print(m, ': 2**2-1', end="")
         print('-->', 3, "\n")
-    while(1):
-        if m >= n:
-            break
+    while(m<n):
         value += 1
         if is_prime(value):
             if is_Mersenne(value):
