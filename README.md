@@ -23,8 +23,8 @@ This script require the math, doctest and sys package.
 ## How to use it
 #### 1. Clone this repository:
 ```zsh
-$> git clone https://github.com/StokicDusan/Python-misc.git
-$> cd Python-misc/MersennePrimes/
+$> git clone https://github.com/StokicDusan/MersennePrime
+$> cd PMersennePrime/
 ```
 #### 2. Launch:
 In the command line simply invoke the script with one argument:
