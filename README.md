@@ -24,7 +24,7 @@ This script require the math, doctest and sys package.
 #### 1. Clone this repository:
 ```zsh
 $> git clone https://github.com/StokicDusan/MersennePrime
-$> cd PMersennePrime/
+$> cd MersennePrime/
 ```
 #### 2. Launch:
 In the command line simply invoke the script with one argument:
