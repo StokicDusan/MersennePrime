@@ -1,3 +1,11 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Commit-activity][commit-activity-shield]][commit-activity-url]
+[![Issues][issues-shield]][issues-url]
+[![Repo-size][repo-size-shield]][repo-size-url]
+[![License][license-shield]][license-url]  
+[![Forks][forks-shield]][forks-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Mersenne Primes
 
 A Mersenne prime is a prime number that is one less than a power of two. That is, it is a prime number of the form <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;M_{n}=2^{n}-1" title="M_{n}=2^{n}-1" /> for some integer n.
@@ -38,3 +46,18 @@ Any positive integer
 
 
 Invoking the script with no arguments will run testmod().
+
+[contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/MersennePrime
+[contributors-url]: https://github.com/StokicDusan/MersennePrime/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/StokicDusan/MersennePrime?style=social
+[forks-url]: https://github.com/StokicDusan/MersennePrime/network/members
+[issues-shield]: https://img.shields.io/github/issues/StokicDusan/MersennePrime
+[issues-url]: https://github.com/StokicDusan/MersennePrime/issues
+[commit-activity-shield]: https://img.shields.io/github/last-commit/StokicDusan/MersennePrime
+[commit-activity-url]: https://github.com/StokicDusan/MersennePrime/graphs/commit-activity
+[license-url]: https://github.com/StokicDusan/MersennePrime/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/StokicDusan/MersennePrime
+[repo-size-shield]: https://img.shields.io/github/repo-size/StokicDusan/MersennePrime
+[repo-size-url]: https://img.shields.io/github/repo-size/StokicDusan/MersennePrime
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=plastice&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/stokicdusan
