@@ -6,7 +6,7 @@
 [![Forks][forks-shield]][forks-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Mersenne Primes
+# Welcome to MersennePrime
 
 A Mersenne prime is a prime number that is one less than a power of two. That is, it is a prime number of the form <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;M_{n}=2^{n}-1" title="M_{n}=2^{n}-1" /> for some integer n.
 
