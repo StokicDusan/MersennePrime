@@ -30,14 +30,14 @@ This script require the math, doctest and sys package.
 
 ## How to use it
 #### 1. Clone this repository:
-```zsh
-$> git clone https://github.com/StokicDusan/MersennePrime
-$> cd MersennePrime/
+```bash
+$ git clone https://github.com/StokicDusan/MersennePrime
+$ cd MersennePrime/
 ```
 #### 2. Launch:
 In the command line simply invoke the script with one argument:
-```zsh
-$> python mersennePrimes.py argv1
+```bash
+$ python mersennePrimes.py argv1
 ```
 * argv1:  
 Any positive integer  
