@@ -58,8 +58,8 @@ $ python3 mersennePrimes.py 0
 $ python3 mersennePrimes.py 1
 3
 
-$ python3 mersennePrimes.py 7
-3 7 31 127 8191 131071 524287
+$ python3 mersennePrimes.py 9
+3 7 31 127 8191 131071 524287 2147483647 2305843009213693951
 ```
 ## Provide Feedback 👍
 
