@@ -30,22 +30,42 @@ This script require the math, doctest and sys package.
 
 ## How to use it
 #### 1. Clone this repository:
-```zsh
-$> git clone https://github.com/StokicDusan/MersennePrime
-$> cd MersennePrime/
+```bash
+$ git clone https://github.com/StokicDusan/MersennePrime
+$ cd MersennePrime/
 ```
 #### 2. Launch:
 In the command line simply invoke the script with one argument:
-```zsh
-$> python mersennePrimes.py argv1
+```bash
+$ python mersennePrimes.py argv1
 ```
 * argv1:  
 Any positive integer  
 
 :warning: *Note:* Other input will result in an error
 
-
 Invoking the script with no arguments will run testmod().
+
+## Examples
+
+The following code block shows examles of calling the mersennePrimes script from terminal.
+
+```bash
+$ python3 mersennePrimes.py -20
+
+$ python3 mersennePrimes.py 0
+
+$ python3 mersennePrimes.py 1
+3
+
+$ python3 mersennePrimes.py 9
+3 7 31 127 8191 131071 524287 2147483647 2305843009213693951
+```
+## Provide Feedback 👍
+
+If you encounter any bugs or have suggestions, please file an issue in the
+[Issues][issues-url]
+section of the project.
 
 [contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/MersennePrime
 [contributors-url]: https://github.com/StokicDusan/MersennePrime/graphs/contributors
