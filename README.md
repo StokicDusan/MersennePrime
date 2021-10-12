@@ -44,8 +44,23 @@ Any positive integer
 
 :warning: *Note:* Other input will result in an error
 
-
 Invoking the script with no arguments will run testmod().
+
+## Examples
+
+The following code block shows examles of calling the mersennePrimes script from terminal.
+
+```bash
+$ python3 mersennePrimes.py -20
+
+$ python3 mersennePrimes.py 0
+
+$ python3 mersennePrimes.py 1
+3
+
+$ python3 mersennePrimes.py 7
+3 7 31 127 8191 131071 524287
+```
 
 [contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/MersennePrime
 [contributors-url]: https://github.com/StokicDusan/MersennePrime/graphs/contributors
