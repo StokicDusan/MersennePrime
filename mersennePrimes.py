@@ -88,5 +88,6 @@ def test_mersenne_primes():
 if __name__ == "__main__":
     if(sys.argv[1:]):
         mersenne_primes(int(sys.argv[1]))
+        print()
     else:
         testmod()
