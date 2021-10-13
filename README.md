@@ -48,7 +48,7 @@ Invoking the script with no arguments will run testmod().
 
 ## Examples
 
-The following code block shows examles of calling the mersennePrimes script from terminal.
+The following code block shows examples of calling the mersennePrimes script from terminal.
 
 ```bash
 $ python3 mersennePrimes.py -20
