@@ -63,9 +63,7 @@ $ python3 mersennePrimes.py 9
 ```
 ## Provide Feedback 👍
 
-If you encounter any bugs or have suggestions, please file an issue in the
-[Issues][issues-url]
-section of the project.
+If you encounter any bugs or have suggestions, please file an issue in the [Issues][issues-url] section of the project.
 
 [contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/MersennePrime
 [contributors-url]: https://github.com/StokicDusan/MersennePrime/graphs/contributors
