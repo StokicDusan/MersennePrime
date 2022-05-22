@@ -8,7 +8,7 @@
 
 # Welcome to MersennePrime
 
-A Mersenne prime is a prime number that is one less than a power of two. That is, it is a prime number of the form <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;M_{n}=2^{n}-1" title="M_{n}=2^{n}-1" /> for some integer n.
+A Mersenne prime is a prime number that is one less than a power of two. It is a prime number of the form $M_{n} = 2^{n}-1$ for some integer $n$.
 
 ## What does the script do?
 The script prints Mersenne prime numbers on the command line.
@@ -21,7 +21,7 @@ Function prints numbers divided by a space character.
 Invoking the script runs this function.
 
 ### mersenne_primes_format:
-Function prints every number in a new line formatted to display in the <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;2^{n}-1" title="2^{n}-1" /> form as well.
+Function prints every number in a new line formatted to display in the $2^{n}-1$ form as well.
 
 ## Installing the dependencies
 
@@ -63,9 +63,7 @@ $ python3 mersennePrimes.py 9
 ```
 ## Provide Feedback 👍
 
-If you encounter any bugs or have suggestions, please file an issue in the
-[Issues][issues-url]
-section of the project.
+If you encounter any bugs or have suggestions, please file an issue in the [Issues][issues-url] section of the project.
 
 [contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/MersennePrime
 [contributors-url]: https://github.com/StokicDusan/MersennePrime/graphs/contributors
